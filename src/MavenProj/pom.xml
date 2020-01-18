@@ -9,11 +9,23 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>practice_03_01</module>
+        <module>practice_03.01</module>
         <module>practice_14.1.1</module>
         <module>practice_14.1.2</module>
         <module>practice_14.1.3</module>
         <module>practice_14.1.4</module>
+        <module>practice_14.1.5</module>
+        <module>practice_14.1.6</module>
+        <module>practice_15.1</module>
+        <module>practice_15.2.1</module>
+        <module>practice_03.01</module>
+        <module>practice_04.01_boolean</module>
+        <module>practice_04.02_numbers</module>
+        <module>practice_04.03_stringVar</module>
+        <module>practice_04.04_narrowingPrimitives</module>
+        <module>practice_04.05_manipulatingNumbers</module>
+        <module>practice_04.06_fahrenheit</module>
+        <module>practice_04.07_minToYears</module>
     </modules>
 
 
